@@ -8,7 +8,7 @@ title: Publications
 
 Fazekas J., Jessop, A., Pine, J., & Rowland, C. (accepted). Do children learn from their mistakes? Evaluating error-based theories of language acquisition. Royal Society Open Science.
 
-<a href="https://www.researchgate.net/profile/Julian_Pine/publication/344354210_Do_children_learn_from_their_prediction_mistakes_A_registered_report_evaluating_error-based_theories_of_language_acquisition/links/5f6b79ea458515b7cf47f69b/Do-children-learn-from-their-prediction-mistakes-A-registered-report-evaluating-error-based-theories-of-language-acquisition.pdf?_sg%5B0%5D=Ri9dwdTVqafbCyEfzmhUfAOUlO6K3h1zH6o7Kp8efRMsEWyjxXFjAL136R89z1RP0f2gOuwLaW3oH4SZYWzvUw.lD0ECOG8B5y1r8QsMhIRlzSCOqXuGa5xJQqovaXaqxnXVoCl3yM4s28MTWXSLxh9E8ZX_5xU6FcWaAnuYixtlg&_sg%5B1%5D=rIDFRmaTstyhnLiAjTotv6XxZ14sOC_fKMTMVYJ8HLEcRKMius-ZeDWBkDsLlvRnoCDhAjEv3I6A6ldrG2y05La7_3-Lu08fSxOqHlGQzYeA.lD0ECOG8B5y1r8QsMhIRlzSCOqXuGa5xJQqovaXaqxnXVoCl3yM4s28MTWXSLxh9E8ZX_5xU6FcWaAnuYixtlg&_iepl=" class="button">Preprint</a> <a href="https://osf.io/d35ka/" class="button">OSF</a>
+<a href="https://www.researchgate.net/publication/344354210_Do_children_learn_from_their_prediction_mistakes_A_registered_report_evaluating_error-based_theories_of_language_acquisition" class="button">Preprint</a> <a href="https://osf.io/d35ka/" class="button">OSF</a>
 
 <br>
 

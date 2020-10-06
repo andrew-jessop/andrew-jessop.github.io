@@ -1,0 +1,99 @@
+a {
+    color: $theme-color;
+    text-decoration: none;
+    outline: 0;
+
+    &:hover {
+        color: $theme-invert;
+        text-decoration: none;
+    }
+}
+
+article a, .news a {
+    color: $theme-color;
+    font-weight: 100;
+    outline: 0;
+
+    &:hover {
+        text-decoration: none;
+        color: $theme-invert;
+    }
+}
+
+.social a {
+    color: $theme-color;
+    outline: 0;
+
+    &:hover { color: $theme-invert; }
+}
+
+
+a.button{
+ background-color: $theme-color-light;
+ font-size: 10pt;
+ border: 0px solid $theme-color;
+ border-radius:2px;
+ color: $theme-color;
+ margin-right:10px;
+ padding: 4px 3px 3px 3px;
+ outline: 0;
+ &:hover {
+     background-color: $theme-invert-light;
+     color: $theme-invert;
+ }
+}
+
+
+// a {
+//   color: $link-color;
+//   background-image: linear-gradient(to top,
+//     rgba(0,0,0,0) 13%,
+//     rgba($link-color,.8) 13%,
+//     rgba($link-color,.8) 18%,
+//     rgba(0,0,0,0) 17%
+//   );
+//   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+// }
+//
+// a:hover,
+// a:focus,
+// a:active {
+//   border: 0;
+//   color: $link-hover-color;
+//   text-decoration: none;
+//   background-image: linear-gradient(to top,
+//     rgba(0,0,0,0) 13%,
+//     rgba($link-hover-color,.8) 13%,
+//     rgba($link-hover-color,.8) 17%,
+//     rgba(0,0,0,0) 17%
+//   );
+//   text-shadow: white 1px 0px 0px, white -1px 0px 0px;
+// }
+//
+// // Correct issues with buttons
+// button,
+// .button {
+//   text-shadow: none;
+//   background-image: none;
+// }
+//
+// .button:hover,
+// .button:focus,
+// .button:active {
+//   color: white;
+//   text-shadow: none;
+//   background-image: none;
+// }
+//
+// .anchorjs-link {
+//     text-shadow: none;
+//     background-image: none;
+// }
+// .anchorjs-link:hover,
+// .anchorjs-link:focus,
+// .anchorjs-link:active{
+//     border: 0;
+//     color: $link-hover-color;
+//     text-shadow: none;
+//     background-image: none;
+// }

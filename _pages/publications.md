@@ -14,7 +14,7 @@ Fazekas J., Jessop, A., Pine, J., & Rowland, C. (accepted). Do children learn fr
 
 <hr>
 
-Durrant, S., Jessop, A., Chang, F., Bidgood, A., Peter, M., Pine, J., & Rowland, C. F. (2020). Does the understanding of complex dynamic events at 10 months predict vocabulary development? (joint first author) [https://doi.org/10/gg7rbm](https://doi.org/10/gg7rbm)
+Durrant, S., Jessop, A., Chang, F., Bidgood, A., Peter, M., Pine, J., & Rowland, C. F. (2020). Does the understanding of complex dynamic events at 10 months predict vocabulary development? *Language and Cognition*, 1–3. [https://doi.org/10/gg7rbm](https://doi.org/10/gg7rbm)
 
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/8D3632C6E12AD3083D17C18ADC763D9C/S1866980820000265a.pdf/does_the_understanding_of_complex_dynamic_events_at_10_months_predict_vocabulary_development.pdf" class="button">PDF</a> <a href="https://psyarxiv.com/ukm3b" class="button">Preprint</a>  <a href="https://osf.io/mjv73/" class="button">OSF</a> <a href="/analyses/05_events_analysis.html" class="button">Analysis</a>
 

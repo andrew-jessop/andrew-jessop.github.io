@@ -8,7 +8,7 @@ title: Publications
 
 Fazekas J., Jessop, A., Pine, J., & Rowland, C. (accepted). Do children learn from their mistakes? Evaluating error-based theories of language acquisition. Royal Society Open Science.
 
-<a href="https://osf.io/d35ka/" class="button">OSF</a>
+<a href="https://www.researchgate.net/profile/Julian_Pine/publication/344354210_Do_children_learn_from_their_prediction_mistakes_A_registered_report_evaluating_error-based_theories_of_language_acquisition/links/5f6b79ea458515b7cf47f69b/Do-children-learn-from-their-prediction-mistakes-A-registered-report-evaluating-error-based-theories-of-language-acquisition.pdf?_sg%5B0%5D=Ri9dwdTVqafbCyEfzmhUfAOUlO6K3h1zH6o7Kp8efRMsEWyjxXFjAL136R89z1RP0f2gOuwLaW3oH4SZYWzvUw.lD0ECOG8B5y1r8QsMhIRlzSCOqXuGa5xJQqovaXaqxnXVoCl3yM4s28MTWXSLxh9E8ZX_5xU6FcWaAnuYixtlg&_sg%5B1%5D=rIDFRmaTstyhnLiAjTotv6XxZ14sOC_fKMTMVYJ8HLEcRKMius-ZeDWBkDsLlvRnoCDhAjEv3I6A6ldrG2y05La7_3-Lu08fSxOqHlGQzYeA.lD0ECOG8B5y1r8QsMhIRlzSCOqXuGa5xJQqovaXaqxnXVoCl3yM4s28MTWXSLxh9E8ZX_5xU6FcWaAnuYixtlg&_iepl=" class="button">Preprint</a> <a href="https://osf.io/d35ka/" class="button">OSF</a>
 
 <br>
 
@@ -24,7 +24,7 @@ Durrant, S., Jessop, A., Chang, F., Bidgood, A., Peter, M., Pine, J., & Rowland,
 
 Noble, C., Cameron-Faulkner, T., Jessop, A., Coates, A., Sawyer, H., Taylor-Ims, R., & Rowland, C. F. (2020). The impact of interactive shared book reading on children's language skills: A randomized controlled trial. *Journal of Speech, Language, and Hearing Research*, 63(6), 1878–1897. [https://doi.org/10/gg3hpv](https://doi.org/10/gg3hpv)
 
-<a href="/papers/2020_noble_et_al.pdf" class="button">PDF</a> <a href="https://osf.io/txu63/" class="button">OSF</a>
+<a href="https://pubs.asha.org/doi/pdf/10.1044/2020_JSLHR-19-00288" class="button">PDF</a> <a href="https://osf.io/txu63/" class="button">OSF</a>
 
 <br>
 
@@ -32,7 +32,7 @@ Noble, C., Cameron-Faulkner, T., Jessop, A., Coates, A., Sawyer, H., Taylor-Ims,
 
 Frost, R. L. A., Jessop, A., Durrant, S., Peter, M. S., Bidgood, A., Pine, J. M., Rowland, C. F., & Monaghan, P. (2020). Non-adjacent dependency learning in infancy, and its link to language development. *Cognitive Psychology*, 120, 101291. [https://doi.org/10/ggpwt7](https://doi.org/10/ggpwt7)
 
-<a href="/papers/2020_frost_et_al.pdf" class="button">PDF</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0010028520300207/pdfft?md5=9f0a36f6d5af569e18d221ab2d6e59d7&pid=1-s2.0-S0010028520300207-main.pdf" class="button">PDF</a>
 
 <br>
 
@@ -49,7 +49,7 @@ system. *Quarterly Journal of Experimental Psychology*, 73(1), 146–163. [https
 
 Peter, M. S, Durrant, S., Jessop, A., Bidgood, A., Pine, J. M., & Rowland, C. (2019). Does speed of processing or vocabulary size predict later language growth in toddlers? *Cognitive Psychology*, 115, 101238. [https://doi.org/10/gf8fx2](https://doi.org/10/gf8fx2)
 
-<a href="/papers/2019_peter_et_al.pdf" class="button">PDF</a> <a href="https://osf.io/z2ukm/" class="button">OSF</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0010028519302282/pdfft?md5=04e8617ff061a24a59abbefa5410af91&pid=1-s2.0-S0010028519302282-main.pdf" class="button">PDF</a> <a href="https://osf.io/z2ukm/" class="button">OSF</a>
 
 <br>
 
@@ -57,7 +57,7 @@ Peter, M. S, Durrant, S., Jessop, A., Bidgood, A., Pine, J. M., & Rowland, C. (2
 
 Bertamini, M., Rampone, G., Makin, A. D. J., & Jessop, A. (2019). Symmetry preference in shapes, faces, flowers and landscapes. *PeerJ*. 7:e7078 [http://doi.org/gf3zrw](https://doi.org/10.7717/peerj.7078)
 
-<a href="/papers/2019_bertamini_et_al.pdf" class="button">PDF</a> <a href="https://osf.io/9qz6p/" class="button">OSF</a>
+<a href="https://peerj.com/articles/7078.pdf" class="button">PDF</a> <a href="https://osf.io/9qz6p/" class="button">OSF</a>
 
 <br>
 

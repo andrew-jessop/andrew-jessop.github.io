@@ -49,7 +49,7 @@ Frost, R. L. A., Jessop, A., Durrant, S., Peter, M. S., Bidgood, A., Pine, J. M.
 Jessop, A., & Chang, F. (2020). Thematic role information is maintained in the visual object-tracking
 system. *Quarterly Journal of Experimental Psychology*, 73(1), 146–163. [https://doi.org/dckk](https://doi.org/dckk)
 
-<a href="https://osf.io/k7t83/" class="button">OSF</a>
+<a href="https://pure.mpg.de/rest/items/item_3179207_4/component/file_3230073/content" class="button">PDF</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
 
 <br>
 

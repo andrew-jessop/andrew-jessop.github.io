@@ -7,7 +7,21 @@ title: Presentations
 
 <hr>
 
-Jessop, A., (2020, January). When can infant looking times provide measures of individual differences? Talk presented to the multilingualism research group at Radboud University, Nijmegen, Netherlands.
+Jessop, A., Jones, G., Rowland, C. (2020, October). A computational study of the mechanisms underlying infant speed of processing and vocabulary development. Flash talk and poster presented at the Many Paths to Language Workshop. Nijmegen, Netherlands.
+
+<br>
+
+<hr>
+
+Jessop, A., (2020, October). How to make your research transparent and reproducible. Talk presented to the Liverpool Statistics and Methods meeting at the University of Liverpool. Liverpool, UK
+
+<a href="/talks/reproducible-reports-lsam.html" class="button">Slides</a> <a href="https://github.com/andrew-jessop/lsam-reproducibility-talk-2020" class="button">GitHub</a>
+
+<br>
+
+<hr>
+
+Jessop, A., (2020, January). When can infant looking times provide measures of individual differences? Talk presented to the multilingualism research group at Radboud University. Nijmegen, Netherlands.
 
 <a href="/talks/infant_looking_time_ids.html" class="button">Slides</a>
 

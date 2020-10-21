@@ -7,7 +7,7 @@ title: Presentations
 
 <hr>
 
-Jessop, A., Jones, G., Rowland, C. (2020, October). A computational study of the mechanisms underlying infant speed of processing and vocabulary development. Flash talk and poster presented at the Many Paths to Language Workshop. Nijmegen, Netherlands.
+Jessop, A., Jones, G., & Rowland, C. (2020, October). A computational study of the mechanisms underlying infant speed of processing and vocabulary development. Flash talk and poster presented at the Many Paths to Language Workshop. Nijmegen, Netherlands.
 
 <br>
 

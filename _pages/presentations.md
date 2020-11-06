@@ -47,9 +47,9 @@ Jessop, A. & Chang, F. (2018, September). Difficulties tracking role-referent sw
 
 <hr>
 
-Jessop, A. & Chang, F. (2018, July). The relative clause asymmetry is shaped by role tracking difficulties. Poster presented at the 10th International Workshop on Language Production. Nijmegen, The Netherlands. [https://doi.org/10/fcmr](https://doi.org/10/fcmr)
+Jessop, A. & Chang, F. (2018, July). The relative clause asymmetry is shaped by role tracking difficulties. Poster presented at the 10th International Workshop on Language Production. Nijmegen, The Netherlands. [https://doi.org/10.6084/m9.figshare.13063607](https://doi.org/10.6084/m9.figshare.13063607)
 
-<a href="https://doi.org/10/fcmr" class="button">Poster</a> <a href="https://osf.io/pkxzh/" class="button">OSF</a>
+<a href="https://doi.org/10.6084/m9.figshare.13063607" class="button">Poster</a> <a href="https://osf.io/pkxzh/" class="button">OSF</a>
 
 <br>
 
@@ -63,17 +63,17 @@ Fazekas, J., Jessop, A., Pine, J. M., & Rowland, C. F. (2018, July). Exploring t
 
 <hr>
 
-Jessop, A. & Chang, F. (2018, March). The relative clause asymmetry is shaped by role tracking difficulties. Poster presented at the 31st Annual CUNY Conference on Human Sentence Processing. Davis, California, USA. [https://doi.org/10/fcmr](https://doi.org/10/fcmr)
+Jessop, A. & Chang, F. (2018, March). The relative clause asymmetry is shaped by role tracking difficulties. Poster presented at the 31st Annual CUNY Conference on Human Sentence Processing. Davis, California, USA. [https://doi.org/10.6084/m9.figshare.13063607](https://doi.org/10.6084/m9.figshare.13063607)
 
-<a href="https://doi.org/10/fcmr" class="button">Poster</a> <a href="https://osf.io/pkxzh/" class="button">OSF</a>
+<a href="https://doi.org/10.6084/m9.figshare.13063607" class="button">Poster</a> <a href="https://osf.io/pkxzh/" class="button">OSF</a>
 
 <br>
 
 <hr>
 
-Jessop, A. & Chang, F. (2016, September). Multiple visual components of thematic role identification. Poster presented at the Architecture and Mechanisms of Language Processing Conference. Bilbao, Spain. [https://doi.org/fcms](https://doi.org/fcms)
+Jessop, A. & Chang, F. (2016, September). The multiple visual components of thematic role identification. Poster presented at the Architectures and Mechanisms of Language Processing Conference. Bilbao, Spain. [https://doi.org/10.6084/m9.figshare.13063625](https://doi.org/10.6084/m9.figshare.13063625)
 
-<a href="https://doi.org/fcms" class="button">Poster</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
+<a href="https://doi.org/10.6084/m9.figshare.13063625" class="button">Poster</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
 
 <br>
 
@@ -85,17 +85,17 @@ Durrant, S., Rowland, C., Chang, F., Jessop, A., Bidgood, A., & Peter, M. (2015,
 
 <hr>
 
-Jessop, A. & Chang, F. (2015, September). Are spatial indexes used to identify thematic roles for language? Poster presented at the Architecture and Mechanisms of Language Processing Conference. Valletta, Malta. [https://doi.org/fcmv](https://doi.org/fcmv)
+Jessop, A. & Chang, F. (2015, September). Are spatial indexes used to identify thematic roles for language? Poster presented at the Architecture and Mechanisms of Language Processing Conference. Valletta, Malta. [https://doi.org/10.6084/m9.figshare.13063637](https://doi.org/fcmv)
 
-<a href="https://doi.org/fcmv" class="button">Poster</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
+<a href="https://doi.org/10.6084/m9.figshare.13063637" class="button">Poster</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
 
 <br>
 
 <hr>
 
-Jessop, A. & Chang, F. (2015, August). Are spatial indexes used to identify thematic roles for language? Poster presented at the European Conference on Visual Perception. Liverpool, UK. [https://doi.org/fcmv](https://doi.org/fcmv)
+Jessop, A. & Chang, F. (2015, August). Are spatial indexes used to identify thematic roles for language? Poster presented at the European Conference on Visual Perception. Liverpool, UK. [https://doi.org/10.6084/m9.figshare.13063637](https://doi.org/10.6084/m9.figshare.13063637)
 
-<a href="https://doi.org/fcmv" class="button">Poster</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
+<a href="https://doi.org/10.6084/m9.figshare.13063637" class="button">Poster</a> <a href="https://osf.io/k7t83/" class="button">OSF</a>
 
 <br>
 

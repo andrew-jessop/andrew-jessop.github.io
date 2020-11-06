@@ -7,6 +7,14 @@ title: Presentations
 
 <hr>
 
+Fazekas J., Jessop, A., Pine, J., & Rowland, C. (2020, November). Do adults learn from their mistakes? Evaluating error-based theories of language acquisition. Poster presented at the 45th annual Boston University Conference on Language Development. Boston, USA.
+
+<a href="https://osf.io/2rmpk/" class="button">OSF</a>
+
+<br>
+
+<hr>
+
 Jessop, A., Jones, G., & Rowland, C. (2020, October). A computational study of the mechanisms underlying infant speed of processing and vocabulary development. Flash talk and poster presented at the Many Paths to Language Workshop. Nijmegen, Netherlands. [https://doi.org/10.6084/m9.figshare.13202876](https://doi.org/10.6084/m9.figshare.13202876)
 
 <a href="https://doi.org/10.6084/m9.figshare.13202876" class="button">Talk</a>

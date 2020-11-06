@@ -6,9 +6,9 @@ title: Teaching
 
 <hr>
 
-Power analyses and simulations in R (June, 2020). Virtual workshop presented at the IMPRS Conference 2020: Interdisciplinary Approaches to the Language Sciences, Max Planck Institute for Psycholinguistics.
+Power analyses and simulations in R (June, 2020). Virtual workshop presented at the IMPRS Conference 2020: Interdisciplinary Approaches to the Language Sciences, Max Planck Institute for Psycholinguistics. [https://doi.org/10.6084/m9.figshare.13202843](https://doi.org/10.6084/m9.figshare.13202843)
 
-<a href="https://drive.google.com/file/d/186q-dc6yMPUV43ptXCuioxzZmeopVik-/view?usp=sharing" class="button">Part 1</a> <a href="https://drive.google.com/file/d/1oFqt50fxmXwGBJmSwc6NUn1gBoBWcq73/view?usp=sharing" class="button">Part 2</a> <a href="https://github.com/andrew-jessop/imprs-power-analysis-workshop" class="button">GitHub</a>
+<a href=https://doi.org/10.6084/m9.figshare.13202843 class="button">Talk</a> <a href="https://github.com/andrew-jessop/imprs-power-analysis-workshop" class="button">GitHub</a>
 
 <br>
 

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: #Andrew Jessop
-email: Andrew.Jessop@mpi.nl
+email: andrew.jessop@liverpool.ac.uk
 description: # this means to ignore newlines until "url:"
 footer_text:
 url: # the base hostname & protocol for your site
@@ -16,16 +16,16 @@ last_updated: # leave blank if you don't want to display last updated
 orcid_id: 0000-0002-2207-4663
 osf_username: 57kvw
 github_username: andrew-jessop
-scholar_userid: AEViRuQAAAAJ
-twitter_username: aajessop
+scholar_userid: LR2rdP8AAAAJ
+twitter_username: # your Twitter handle
 medium_username: # your Medium username
 quora_username: # your Quora username
-researchgate_username: Andrew_Jessop
+researchgate_username: # your ResearchGate username
 linkedin_username: # your LinkedIn user name
 
-contact_note: I aim to make all of my research open and reproducible
+contact_note: # I aim to make all of my research open and reproducible
 
-google_analytics: UA-XXXXXXXXX # out your google-analytics code
+google_analytics: # out your google-analytics code
 
 # -----------------------------------------------------------------------------
 # Blog

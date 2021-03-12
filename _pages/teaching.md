@@ -10,17 +10,17 @@ Power analyses and simulations in R (February, 2021). Key Practices for the Lang
 
  <a href="/talks/power-2021.html" class="button">Slides</a> <a href="https://github.com/andrew-jessop/imprs-power-2021" class="button">GitHub</a>
 
-<hr>
-
 <br>
+
+<hr>
 
 Markdown for transparent and reproducible research (February, 2021). Key Practices for the Language Scientist, Max Planck Institute for Psycholinguistics. (1 hour)
 
  <a href="/talks/markdown-2021.html" class="button">Slides</a> <a href="https://github.com/andrew-jessop/imprs-markdown-2021" class="button">GitHub</a>
 
-<hr>
-
 <br>
+
+<hr>
 
 Jessop, A., (2020, October). How to make your research transparent and reproducible. Talk presented to the Liverpool Statistics and Methods meeting at the University of Liverpool. Liverpool, UK
 

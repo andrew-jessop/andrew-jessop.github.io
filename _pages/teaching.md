@@ -51,5 +51,3 @@ Reproducible reporting for reproducible research (March, 2020). Key Practices fo
 <a href="/talks/reproducible-imprs-2020.html" class="button">Slides</a> <a href="https://github.com/andrew-jessop/imprs-reproducible-reporting-2020" class="button">GitHub</a>
 
 <br>
-
-<hr>

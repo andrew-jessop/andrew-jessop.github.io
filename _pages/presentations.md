@@ -4,7 +4,6 @@ permalink: /presentations/
 title: Presentations
 ---
 
-
 <hr>
 
 Fazekas J., Jessop, A., Pine, J., & Rowland, C. (2020, November). Do adults learn from their mistakes? Evaluating error-based theories of language acquisition. Poster presented at the 45th annual Boston University Conference on Language Development. Boston, USA.
@@ -18,14 +17,6 @@ Fazekas J., Jessop, A., Pine, J., & Rowland, C. (2020, November). Do adults lear
 Jessop, A., Jones, G., & Rowland, C. (2020, October). A computational study of the mechanisms underlying infant speed of processing and vocabulary development. Flash talk and poster presented at the Many Paths to Language Workshop. Nijmegen, Netherlands. [https://doi.org/10.6084/m9.figshare.13202876](https://doi.org/10.6084/m9.figshare.13202876)
 
 <a href="https://doi.org/10.6084/m9.figshare.13202876" class="button">Talk</a>
-
-<br>
-
-<hr>
-
-Jessop, A., (2020, October). How to make your research transparent and reproducible. Talk presented to the Liverpool Statistics and Methods meeting at the University of Liverpool. Liverpool, UK
-
-<a href="/talks/reproducible-reports-lsam.html" class="button">Slides</a> <a href="https://github.com/andrew-jessop/lsam-reproducibility-talk-2020" class="button">GitHub</a>
 
 <br>
 

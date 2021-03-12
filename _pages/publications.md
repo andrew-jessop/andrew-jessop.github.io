@@ -14,7 +14,7 @@ Jessop, A., & Chang, F. (submitted). The relative clause asymmetry is shaped by 
 
 <hr>
 
-Fazekas J., Jessop, A., Pine, J., & Rowland, C. (accepted). Do children learn from their prediction mistakes? A registered report evaluating error-based theories of language acquisition. *Royal Society Open Science*, 7:180877. [https://doi.org/10.1098/rsos.180877](https://doi.org/10.1098/rsos.180877)
+Fazekas J., Jessop, A., Pine, J., & Rowland, C. (2020). Do children learn from their prediction mistakes? A registered report evaluating error-based theories of language acquisition. *Royal Society Open Science*, 7:180877. [https://doi.org/10.1098/rsos.180877](https://doi.org/10.1098/rsos.180877)
 
 <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.180877" class="button">PDF</a> <a href="https://doi.org/10.31234/osf.io/3phxu" class="button">Preprint</a> <a href="https://osf.io/d35ka/" class="button">OSF</a>
 

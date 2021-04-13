@@ -4,6 +4,15 @@ permalink: /teaching/
 title: Teaching
 ---
 
+
+<hr>
+
+Computational modeling in Python: Distributional Semantic Models (April, 2021). Experimental Methods in Language Acquisition Research, Utrecht University. (2 hours)
+
+ <a href="/talks/alhama-jessop-emlar-2021.pdf" class="button">Slides</a> <a href="https://github.com/rgalhama/emlar2021" class="button">GitHub</a>
+
+<br>
+
 <hr>
 
 Power analyses and simulations in R (February, 2021). Key Practices for the Language Scientist, Max Planck Institute for Psycholinguistics. (1.5 hour)
@@ -22,7 +31,7 @@ Markdown for transparent and reproducible research (February, 2021). Key Practic
 
 <hr>
 
-Jessop, A., (2020, October). How to make your research transparent and reproducible. Talk presented to the Liverpool Statistics and Methods meeting at the University of Liverpool. Liverpool, UK
+How to make your research transparent and reproducible (2020, October). Talk presented to the Liverpool Statistics and Methods meeting at the University of Liverpool. Liverpool, UK
 
 <a href="/talks/reproducible-lsam-2020.html" class="button">Slides</a> <a href="https://github.com/andrew-jessop/lsam-reproducibility-talk-2020" class="button">GitHub</a>
 

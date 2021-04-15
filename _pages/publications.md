@@ -6,9 +6,9 @@ title: Publications
 
 <hr>
 
-Jessop, A., & Chang, F. (submitted). The relative clause asymmetry is shaped by difficulties in tracking role-referent bindings.
+Jessop, A., & Chang, F. (submitted). Visual role tracking difficulties can bias relative clause production.
 
-<a href="https://osf.io/pkxzh/" class="button">OSF</a>
+<a href="https://osf.io/pkxzh/" class="button">OSF</a> <a href="https://github.com/andrew-jessop/rc-push-mot" class="button">GitHub</a>
 
 <br>
 

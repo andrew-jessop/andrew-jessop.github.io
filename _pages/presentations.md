@@ -6,6 +6,14 @@ title: Presentations
 
 <hr>
 
+Jessop, A., Jones, G., & Rowland, C. (2020, October). A computational study of the mechanisms underlying infant speed of processing and lexical development. Talk presented at the Psycholinguistics in Flanders conference. Kaiserslautern, Germany. [https://doi.org/10.17605/OSF.IO/E6MP8](https://doi.org/10.17605/OSF.IO/E6MP8)
+
+<a href="https://doi.org/10.17605/OSF.IO/E6MP8" class="button">Talk</a>
+
+<br>
+
+<hr>
+
 Fazekas J., Jessop, A., Pine, J., & Rowland, C. (2020, November). Do adults learn from their mistakes? Evaluating error-based theories of language acquisition. Poster presented at the 45th annual Boston University Conference on Language Development. Boston, USA.
 
 <a href="https://osf.io/2rmpk/" class="button">OSF</a>

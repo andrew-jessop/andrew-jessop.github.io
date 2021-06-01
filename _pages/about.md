@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: Andrew Jessop
-description: <i class="fas fa-envelope"></i> Postdoctoral research associate<br><br>ESRC LuCiD Centre at The University of Liverpool<br><i class="fas fa-envelope"></i> andrew.jessop (at) [liverpool.ac.uk]
+description: <i class="fas fa-briefcase"></i> Postdoctoral research associate<br><br><i class="fas fa-university"></i>ESRC LuCiD Centre at The University of Liverpool<br><br><i class="fas fa-envelope"></i> andrew.jessop (at) [liverpool.ac.uk]
 profile:
   align: right
   image: 20190827.jpg

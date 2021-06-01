@@ -5,7 +5,7 @@ title: Andrew Jessop
 description: University of Liverpool<br><i class="fas fa-envelope"></i> andrew.jessop at liverpool.ac.uk
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 20190827.jpg
 news: false
 social: true
 ---
